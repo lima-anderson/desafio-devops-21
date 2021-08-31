@@ -30,6 +30,13 @@ Connection refused
 Se aparecer espere alguns segundos e atualize a página.
 
 
-### Solução:
+## Solução:
 
 [Apresentação](https://docs.google.com/presentation/d/1WEgvzCyz3RcB36H8E7Vu6So5hvozHVccrtfnOoHp9qw/edit?usp=sharing)
+
+## Screenshots:
+
+[Link das Fotos](https://docs.google.com/document/d/1ghgQfYnA7PI24t1lfYtUy5oadQAKo0ybWyEjhAqwIGI/edit?usp=sharing)
+
+
+
