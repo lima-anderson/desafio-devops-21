@@ -37,6 +37,3 @@ Se aparecer espere alguns segundos e atualize a página.
 ## Screenshots:
 
 [Link das Fotos](https://docs.google.com/document/d/1ghgQfYnA7PI24t1lfYtUy5oadQAKo0ybWyEjhAqwIGI/edit?usp=sharing)
-
-
-
