@@ -4,7 +4,7 @@
 
 ### Instruções necessárias para execução do projeto:
 
-#### 1.1 Tendo instalado o Docker e o Docker Compose faça o clone esse repositório:
+#### 1.1 Tendo instalado o Docker e o Docker Compose faça o clone desse repositório:
 ```
 git clone https://github.com/lima-anderson/desafio-devops-21.git
 ```
@@ -12,9 +12,9 @@ git clone https://github.com/lima-anderson/desafio-devops-21.git
 ```
 desafio-devops-21
 ```
-#### 1.3 Coloque este ambiente em funcionamento com:
+#### 1.3 Coloque este ambiente em funcionamento:
 ```
-sudo docker-compose up -d
+docker-compose up -d
 ```
 #### 1.4. Abra o navegador e acesse:
 ```
