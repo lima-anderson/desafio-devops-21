@@ -4,38 +4,22 @@
 
 ### Instruções necessárias para execução do projeto:
 
-#### 1.1 Acesse a página abaixo e faça login:
-
-https://labs.play-with-docker.com/
-
-#### 1.2 Abra uma nova instância :
-
-+ ADD NEW INSTANCE
-
-#### 1.3 Faça o clone esse repositório:
+#### 1.1 Tendo instalado o Docker e o Docker Compose faça o clone esse repositório:
 ```
-git clone https://github.com/lima-anderson/teste-docker.git
+git clone https://github.com/lima-anderson/desafio-devops-21.git
 ```
-#### 1.4. Entre na pasta:
+#### 1.2. Entre na pasta:
 ```
-cd teste-docker
+desafio-devops-21
 ```
-#### 1.5. Altere a permissão do script:
+#### 1.3 Coloque este ambiente em funcionamento com:
 ```
-chmod a+x init.sh
+sudo docker-compose up -d
 ```
-#### 1.6. Rode o script (Esse passo é necessário porque o alpine não tem docker compose e apresenta algumas dificuldades para instalação):
+#### 1.4. Abra o navegador e acesse:
 ```
-./init.sh
+http://localhost:8080/
 ```
-#### 1.7 Coloque este ambiente em funcionamento com:
-```
-docker-compose up -d
-```
-#### 1.8. Abra o navegador e acesse:
-
-clique na porta que foi aberta: [foto]
-
 ##### Obs.:
 Pode aparecer isso:
 ```
@@ -48,4 +32,4 @@ Se aparecer espere alguns segundos e atualize a página.
 
 ### Solução:
 
-[Apresentação](https://www.google.com/)
+[Apresentação](https://docs.google.com/presentation/d/1WEgvzCyz3RcB36H8E7Vu6So5hvozHVccrtfnOoHp9qw/edit?usp=sharing)
